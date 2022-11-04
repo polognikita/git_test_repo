@@ -77,6 +77,8 @@ c = 5
 # Добавил третий комментарий, print
 print(c)
 
+print('Никита')
+
 heap1 = Max_Heap([21 ,20, 5,6,3, 1, 7656, 32,4 ,543])
 heap1.build_heap()
 print(heap1.heaplist, len(heap1.heaplist))
